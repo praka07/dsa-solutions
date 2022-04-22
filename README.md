@@ -13,6 +13,7 @@
 ## 5. 2-pointer
 
 ## 6. Hashing
+  # Problems
  * Given random string, for every string check if it has already occur or not
 
 ## 7. Maths - Modular Arithmetic
