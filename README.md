@@ -13,8 +13,17 @@
 ## 5. 2-pointer
 
 ## 6. Hashing
-  # Problems
- * Given random string, for every string check if it has already occur or not
+  ### Problems ###
+ * Given random string, for every string check if it has already occur or not.
+ * Given array find frequency of every elements.
+ * given array, return first non repeating element
+ * given 2 array find the common element
+ * two sum
+ * two sum with XOR
+ * gievn N strings group all the anagrams
+ * gievn array of 'distinct' elements, find 4 numbers such that A+B=C+D
+ * gievn array, check if subarray existing with sum=0
+ * gievn array, check if subarray existing with sum=K
 
 ## 7. Maths - Modular Arithmetic
 
