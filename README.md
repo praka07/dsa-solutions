@@ -24,6 +24,9 @@
  * gievn array of 'distinct' elements, find 4 numbers such that A+B=C+D
  * gievn array, check if subarray existing with sum=0
  * gievn array, check if subarray existing with sum=K
+ * given array, count number of subarray where XOR=k
+ * given array, count number of subarray with exactly k odd numbers
+ * given array of postive integer, find length of longest consequtive sequence which can be formed using number from array
 
 ## 7. Maths - Modular Arithmetic
 
