@@ -33,6 +33,8 @@
 ## 7. Maths - Modular Arithmetic
 
 ## 8. Recursion & Backtracking
+    ### Problems Backtracking ###
+    * Given a string, print all permutaions of the string
 
 ## 9. Searching & Sorting
 
