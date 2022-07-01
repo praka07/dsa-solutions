@@ -28,9 +28,9 @@ public class Nqueens {
         if (row == board.size()) {
 
             res.addAll(displayBoard(board));
-            System.out.println();
+           // System.out.println();
 
-            return res;
+                return res;
         }
         List<List<String>> ans = new ArrayList<>();
         for (int col = 0; col < board.size(); col++) {
@@ -57,18 +57,18 @@ public class Nqueens {
             rowArrangment = new ArrayList<>();
             for (Boolean item : list) {
                 if (item) {
-                    System.out.print("Q ");
+                 //   System.out.print("Q ");
                     rowArrangment.add("Q");
 
                 } else {
                     rowArrangment.add(".");
-                    System.out.print("X ");
+                  //  System.out.print("X ");
                 }
 
             }
-            System.out.println("--" + Arrays.asList(rowArrangment));
+           // System.out.println("--" + Arrays.asList(rowArrangment));
             fullBoard.add(new ArrayList<>(rowArrangment));
-            System.out.println();
+          //  System.out.println();
         }
 
         return fullBoard;

@@ -33,8 +33,8 @@
 ## 7. Maths - Modular Arithmetic
 
 ## 8. Recursion & Backtracking
-    ### Problems Backtracking ###
-    * Given a string, print all permutaions of the string
+   ### Problems Backtracking ###
+   * Given a string, print all permutaions of the string
 
 ## 9. Searching & Sorting
 
@@ -51,6 +51,9 @@
 ## 15. greedy algorithms
 
 ## 16. Dynamic Programming
+   ### Problems ###
+   * Given an integer N find the min no of squares needed to make the sum N
+   * N=6, 2 square 2+1 square 2+ 1 square 2
 
 ## 17. Graphs
 
