@@ -7,7 +7,7 @@ public class ClimbingStairs {
 
     public static void main(String[] args) {
         ClimbingStairs climbingStairs = new ClimbingStairs();
-        System.out.println(" total way " + climbingStairs.climbStairs(10));
+        System.out.println(" total way " + climbingStairs.climbStairs(3));
     }
 
     public int climbStairs(int n) {

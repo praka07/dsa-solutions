@@ -54,6 +54,7 @@
    ### Problems ###
    * Given an integer N find the min no of squares needed to make the sum N
    * N=6, 2 square 2+1 square 2+ 1 square 2
+   * find total number ways in which N peopele can party
 
 ## 17. Graphs
 

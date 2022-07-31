@@ -28,10 +28,11 @@ public class PrintAllSubsets {
             return;
         }
 
-        allSubsets(A, index + 1, subset); // do not take
-        subset.add(A[index]);
+        subset.add(A[index]); //take
         allSubsets(A, index + 1, subset);
-        subset.remove(subset.size() - 1);
+        subset.remove(subset.size() - 1); //remove
+        allSubsets(A, index + 1, subset);
+
 
 
 
